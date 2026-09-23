@@ -19,17 +19,6 @@
 
 ---
 
-## 👥 Grupo
-
-| 🧑‍💻 Integrante |
-|---|
-| Antonio Kaue |
-| Kauany Bairros |
-| Henrique Silva |
-| Miguel Wolf |
-
----
-
 ## ✨ Funcionalidades
 
 - 🏀 **Galeria de jogadores** — cards com foto e nome
@@ -100,7 +89,5 @@ npm run preview
 ## 📄 Licença
 
 Projeto acadêmico, sem licença específica.
-
-Feito com 💛🏀 pelo grupo **NBA Astros Gallery**
 
 </div>
