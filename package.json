@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
@@ -26,5 +30,18 @@
     "eslint-plugin-react-refresh": "^0.5.6",
     "globals": "^17.12.0",
     "vite": "^8.3.0"
-  }
+  },
+  "description": "<div align=\"center\">",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniokauetesta/projeto-nba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniokauetesta/projeto-nba/issues"
+  },
+  "homepage": "https://github.com/antoniokauetesta/projeto-nba#readme"
 }
