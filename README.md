@@ -85,9 +85,4 @@ npm run preview
 ---
 
 <div align="center">
-
-## 📄 Licença
-
-Projeto acadêmico, sem licença específica.
-
 </div>
